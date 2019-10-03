@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Arge1014/WebProgramming-In-Class.git"
   },
   "author": "",
   "license": "ISC",
+
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+
   "dependencies": {
     "express": "^4.17.1"
   },
